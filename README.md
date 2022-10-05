@@ -2,9 +2,9 @@
 
  Hello, I’m Sergey Movsesyan, 24 years old and i am interrested in Web Development.
  I’m currently learning 
- - <h4 id="t1" style= font-color:"orange";>HTML</h3>
- - <h4 id="t2" style= font-color:"blue";>CSS</h3>
- - <h4 id="t3" style= font-color:"skyblue";>Javascript</h3>
+ - <h5 id="t1" style= font-color:"orange";>HTML</h5>
+ - <h5 id="t2" style= font-color:"blue";>CSS</h5>
+ - <h5 id="t3" style= font-color:"skyblue";>Javascript</h5>
  
 - 📫 How to reach me Email:sm877141@gmail.com 
 <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg" width=300px; height=200px; alt="Nature Wald"> 
