@@ -1,7 +1,6 @@
 # Profil
 
- Hello, I’m Sergey Movsesyan, 24 years old and i am interrested in Web Development.
- I’m currently learning 
+ Hello, I’m Sergey Movsesyan, 24 years old and i am currently learning Web Development in Neue Fische.
  - <h5 id="t1" font-color=blue;>HTML</h5>
  - <h5 id="t2">CSS</h5>
  - <h5 id="t3" style = "background-color:green;">Javascript</h5>
