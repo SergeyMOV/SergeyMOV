@@ -4,7 +4,7 @@
  - <h5 id="t1" font-color=blue;>HTML</h5>
  - <h5 id="t2">CSS</h5>
  - <h5 id="t3">Javascript</h5>
- -  <h5 id="t3">React</h5>
+ -  (https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  
  
 - 📫 How to reach me Email:sm877141@gmail.com 
