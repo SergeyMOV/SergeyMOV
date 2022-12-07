@@ -15,7 +15,8 @@
 
 # :chart_with_upwards_trend: Github Stats
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeyMOV&theme=default)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeyMOV&theme=default) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMOV)
 
 # 📫 How to Reach Me
 <p>:e-mail: sm877141@gmail.com</p> 
