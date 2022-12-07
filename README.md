@@ -1,4 +1,4 @@
-# Profile
+# Profile:
 
  Hello:wave:,My name is Sergey Movsesyan, i am 24 years old and i'm interested in web development. I am currently doing Web-Development Bootcamp at Neue Fische.In the future, i would like to work in the Frontend-Development Area.
 # 💻 Languages & Tools
@@ -13,12 +13,13 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 
-# :chart_with_upwards_trend: Github Stats
+# :chart_with_upwards_trend: Github Stats:
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeyMOV&theme=default) 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeyMOV&theme=default)
+ <br>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMOV)
 
-# 📫 How to Reach Me
+# 📫 How to Reach Me:
 <p>:e-mail: sm877141@gmail.com</p> 
 
 <!---
