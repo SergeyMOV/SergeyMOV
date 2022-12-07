@@ -13,6 +13,10 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 
+# :chart_with_upwards_trend: Github Stats
+
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeyMOV&theme=default)
+
 # 📫 How to Reach Me
 <p>:e-mail: sm877141@gmail.com</p> 
 <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg" width=300px; height=200px; alt="Nature Wald"> 
