@@ -1,4 +1,4 @@
-# Profil
+# Profile
 
  Hello:wave:,My name is Sergey Movsesyan, i am 24 years old and interested in web development. I am currently doing Web-Development Bootcamp at Neue Fische.In the future, i would like to work in the Frontend-Development Area.
 # 💻 Languages & Tools
