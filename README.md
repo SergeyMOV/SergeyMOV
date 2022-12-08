@@ -20,7 +20,7 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMOV)
 
 # 📫 How to Reach Me:
-:e-mail: <a href=" https://www.google.com/url?sa=t&source=web&rct=j&url=https://mail.google.com/mail/&ved=2ahUKEwj_ls7yh-v7AhV7bPEDHX3HDcUQFnoECAYQAQ&usg=AOvVaw1LdBdmrwYVrMn4NzKd8iI_">sm877141@gmail.com</a> 
+ <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://mail.google.com/mail/&ved=2ahUKEwj_ls7yh-v7AhV7bPEDHX3HDcUQFnoECAYQAQ&usg=AOvVaw1LdBdmrwYVrMn4NzKd8iI_">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
 <!---
 SergeyMOV/SergeyMOV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
