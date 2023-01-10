@@ -1,7 +1,7 @@
 # Profile:
 
  Hello:wave:,My name is Sergey Movsesyan, a 24 year old man who is passionate about web development.I recently successfully completed the Web-Development Bootcamp at Neue Fische and am currently looking for a job as a junior frontend developer.
-# 💻 Languages & Tools
+# 💻 Languages & Tools:
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   <br>
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
