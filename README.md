@@ -1,7 +1,7 @@
-# Profile:
+# Profile
 
  Hello:wave:,My name is Sergey Movsesyan, a 24 year old man who is passionate about web development.I recently successfully completed the Web-Development Bootcamp at Neue Fische and am currently looking for a job as a junior frontend developer.
-# 💻 Languages & Tools:
+# 💻 Languages & Tools
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   <br>
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -15,13 +15,13 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 
-# :chart_with_upwards_trend: Github Stats:
+# :chart_with_upwards_trend: Github Stats
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeyMOV&theme=default)
  <br>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMOV)
 
-# 📫 How to Reach Me:
+# 📫 How to Reach Me
  <a href="https://www.linkedin.com/in
 /sergey-movsesyan/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox">
