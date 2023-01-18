@@ -17,7 +17,12 @@
 
 # :chart_with_upwards_trend: Github Stats
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyMOV)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=SergeyMOV" align = "center"/>
+<img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMOV&theme=default" align = "center"/>
+</p>
+
+ 
 
 # 📫 How to Reach Me
  <a href="https://www.linkedin.com/in
