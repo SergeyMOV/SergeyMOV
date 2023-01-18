@@ -18,9 +18,7 @@
 # :chart_with_upwards_trend: Github Stats
 
 
-[![SergeyMOV GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyMOV)](https://github.com/SergeyMOV/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMOV&theme=default&layout=compact")
+![SergeyMOV GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SergeyMOV)
 
 
 
