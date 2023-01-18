@@ -17,9 +17,7 @@
 
 # :chart_with_upwards_trend: Github Stats
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeyMOV&theme=default)
- <br>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMOV)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyMOV)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📫 How to Reach Me
  <a href="https://www.linkedin.com/in
