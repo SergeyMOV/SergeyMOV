@@ -17,12 +17,12 @@
 
 # :chart_with_upwards_trend: Github Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=SergeyMOV" align = "center"/>
-<img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMOV&theme=default" align = "center"/>
-</p>
 
- 
+[![SergeyMOV GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyMOV)](https://github.com/SergeyMOV/github-readme-stats)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMOV&theme=default&layout=compact")
+
+
 
 # 📫 How to Reach Me
  <a href="https://www.linkedin.com/in
