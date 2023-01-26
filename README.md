@@ -21,6 +21,8 @@
 
 
 ![SergeyMOV GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SergeyMOV)
+<br>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SergeyMOV&layout=compact)](https://github.com/SergeyMOV/github-readme-stats)
 
 
 
