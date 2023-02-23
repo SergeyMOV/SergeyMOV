@@ -22,7 +22,7 @@
 
 ![SergeyMOV GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SergeyMOV&theme=react)
 <br>
- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMOV&theme=react&card_width=451)]()
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMOV&theme=react&card_width=450)]()
 
 # 📫 How to Reach Me
  <a href="https://www.linkedin.com/in
