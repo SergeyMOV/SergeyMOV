@@ -1,6 +1,6 @@
 # Profile
 
- Hello:wave:,My name is Sergey Movsesyan. I am a 24 year old man who is passionate about web development.I recently successfully completed the Web-Development Bootcamp at Neue Fische and successfully presented and passed my Mobile-App as a Final Project. I am currently looking for a Job as a Junior Frontend-Developer.
+ Hello:wave:,My name is Sergey Movsesyan. I am a 24 year old man who is passionate about web development. Recently, I have successfully completed the advanced web development bootcamp at Neue Fische GmbH presenting my mobile-app as a final project. I am currently looking for a Job as a Junior Frontend-Developer.
 # 💻 Languages & Tools
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   <br>
