@@ -24,7 +24,7 @@
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMOV&theme=react&card_width=450)]()
 
 # 📫 How to Reach Me
-<a href="https://www.xing.com/profile/Sergey_Movsesyan/web_profiles">![Xing](https://img.shields.io/badge/Xing-%230077B5.svg?style=for-the-badge&logo=Xing&logoColor=white)</a> 
+<a href="https://www.xing.com/profile/Sergey_Movsesyan/web_profiles">![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)</a> 
 <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox">
  <a href="https://www.linkedin.com/in
 /sergey-movsesyan/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
